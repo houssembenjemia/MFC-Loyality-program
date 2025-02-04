@@ -1,9 +1,6 @@
 # MFC-Loyality-program
 
 Pour des raisons de confidentialité, je suis dans l'impossibilité de partager le code source.
-
-# Lien dashboard
-https://loyalty-program.atsu-projects.com/login
  
 Voici qq capture d'écran
 ![login](https://github.com/houssembenjemia/MFC-Loyality-program/assets/42893380/623e2d59-fbaf-4454-a97f-ef7b7b703e3f)
